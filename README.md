@@ -18,9 +18,9 @@ Atualmente estou estudando Desenvolvimento Fullstack Python na EBAC, sempre com 
 
 ### Projetos em destaque
 
-🍔 **[E-Food](https://github.com/aliceherrera/eFood)** – App de delivery com carrinho, checkout e integração front + back.</br>
-✅ **[ToDo Vue](https://github.com/aliceherrera/todo_vue)** – Lista de tarefas dinâmica feita com Vue.js.</br>
-👤 **[GitHub Perfil](https://github.com/aliceherrera/github_perfil)** – App que busca perfis do GitHub usando API.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliceherrera&repo=eFood&theme=dark)](https://github.com/aliceherrera/eFood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliceherrera&repo=todo_vue&theme=dark)](https://github.com/aliceherrera/todo_vue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliceherrera&repo=github_perfil&theme=dark)](https://github.com/aliceherrera/github_perfil)
 
 ---
 
