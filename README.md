@@ -20,7 +20,6 @@ Atualmente estou estudando Desenvolvimento Fullstack Python na EBAC, sempre com 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliceherrera&repo=eFood&theme=dark)](https://github.com/aliceherrera/eFood)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliceherrera&repo=todo_vue&theme=dark)](https://github.com/aliceherrera/todo_vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliceherrera&repo=github_perfil&theme=dark)](https://github.com/aliceherrera/github_perfil)
 
 ---
 ### Conecte-se comigo
